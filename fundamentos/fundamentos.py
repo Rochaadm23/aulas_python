@@ -75,3 +75,27 @@ print(percentual_comprometido)
 3 == 3  # -> Igual
 print(2 == '2')  # -> Igual
 
+# Operadores de Atribuição
+
+a = 3
+a = a + 7  # -> Atribuição de Variável
+
+a += 5  # a = a + 5
+print(a)
+
+a -= 3  # a = a - 3
+print(a)
+
+a *= 2  # a = a * 2
+print(a)
+
+a /= 4  # a = a / 4
+print(a)
+
+a %= 4  # a = a % 4
+print(a)
+
+a **= 8  # a = a ** 8
+print(a)
+
+a //= 256  # a = a //
