@@ -64,3 +64,14 @@ despesas = 2456.20
 # Resposta
 percentual_comprometido = despesas / salario * 100
 print(percentual_comprometido)
+
+# Operadores Relacionais
+
+3 > 4  # -> Maior que
+4 >= 3  # -> Maior ou igual
+1 < 2  # -> Menor que
+3 <= 1  # -> Menor ou igual
+3 != 2  # -> Diferente
+3 == 3  # -> Igual
+print(2 == '2')  # -> Igual
+
