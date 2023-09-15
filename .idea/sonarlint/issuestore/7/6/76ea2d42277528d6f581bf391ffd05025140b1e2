@@ -1,0 +1,16 @@
+
+•python:PreIncrementDecrement5"fThis statement doesn't produce the expected result, replace use of non-existent pre-increment operator(“¾•â8Äğ–©1
+]python:S905F":Remove or refactor this statement; it has no side effects.(ø‚ë¡üÿÿÿÿ8Åğ–©1
+]python:S905G":Remove or refactor this statement; it has no side effects.(Ÿ¦æîûÿÿÿÿ8Åğ–©1
+Xpython:S905H":Remove or refactor this statement; it has no side effects.(ÛÃÌ8Æğ–©1
+]python:S905I":Remove or refactor this statement; it has no side effects.(Û’·…øÿÿÿÿ8Æğ–©1
+Xpython:S905J":Remove or refactor this statement; it has no side effects.(½‰ü—8Æğ–©1
+Xpython:S905K":Remove or refactor this statement; it has no side effects.(›Òä8Æğ–©1
+kpython:S1764K"LCorrect one of the identical sub-expressions on both sides of operator "==".(›Òä8Çğ–©1
+rpython:S2159L"SRemove this equality check between incompatible types; it will always return False.(ª™ç±8Çğ–©1
+=python:S125S"Remove this commented out code.(â°¤È8Çğ–©1
+=python:S125V"Remove this commented out code.(œ‡ŒÎ8Èğ–©1
+=python:S125Y"Remove this commented out code.(ÂÛ«8Èğ–©1
+Bpython:S125\"Remove this commented out code.(Ì‡Òùÿÿÿÿÿ8Èğ–©1
+Bpython:S125_"Remove this commented out code.(‚§ôüÿÿÿÿ8Èğ–©1
+=python:S125b"Remove this commented out code.(Ìÿâ¦8Éğ–©1

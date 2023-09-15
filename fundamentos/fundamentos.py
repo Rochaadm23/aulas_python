@@ -99,3 +99,33 @@ a **= 8  # a = a ** 8
 print(a)
 
 a //= 256  # a = a //
+
+
+# Operadores Lógicos
+
+print(True or False)  # -> Ou
+print(True or True)  # -> Ou
+print(False or True)  # -> Ou
+print(False or False)  # -> Ou
+
+print(True and False)  # -> E
+print(True and True)  # -> E
+print(False and True)  # -> E
+print(False and False)  # -> E
+
+print(True != False)  # -> Nao
+print(True != True)  # -> Nao
+print(False != True)  # -> Nao
+print(False != False)  # -> Nao
+
+print(not True)  # -> Nao
+print(not False)  # -> Nao
+print(not not True)  # -> Nao
+print(not not False)  # -> Nao
+
+# Cuidado
+
+print(True & False)  # -> Nao
+print(True | True)  # -> Nao
+print(False ^ True)  # -> Nao
+
